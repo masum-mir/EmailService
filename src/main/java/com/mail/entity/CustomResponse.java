@@ -1,5 +1,7 @@
 package com.mail.entity;
 
+import org.springframework.http.HttpStatus;
+
 public class CustomResponse {
 
     private String message;
